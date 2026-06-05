@@ -1,4 +1,4 @@
-const questions = [
+window.questions = [
 {
 q:"ভারতের সংবিধান কার্যকর হয় কবে?",
 options:[
